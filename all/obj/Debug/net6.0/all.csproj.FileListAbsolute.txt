@@ -1,0 +1,15 @@
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.csproj.AssemblyReference.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.AssemblyInfoInputs.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.AssemblyInfo.cs
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.csproj.CoreCompileInputs.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/bin/Debug/net6.0/all
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/bin/Debug/net6.0/all.deps.json
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/bin/Debug/net6.0/all.runtimeconfig.json
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/bin/Debug/net6.0/all.dll
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/bin/Debug/net6.0/all.pdb
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.dll
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/refint/all.dll
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.pdb
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/all.genruntimeconfig.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/all/obj/Debug/net6.0/ref/all.dll

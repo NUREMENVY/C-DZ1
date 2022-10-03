@@ -1,0 +1,15 @@
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.csproj.AssemblyReference.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.AssemblyInfoInputs.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.AssemblyInfo.cs
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.csproj.CoreCompileInputs.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/bin/Debug/net6.0/num1,2,3
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/bin/Debug/net6.0/num1,2,3.deps.json
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/bin/Debug/net6.0/num1,2,3.runtimeconfig.json
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/bin/Debug/net6.0/num1,2,3.dll
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/bin/Debug/net6.0/num1,2,3.pdb
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.dll
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/refint/num1,2,3.dll
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.pdb
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/num1,2,3.genruntimeconfig.cache
+/Users/maximshupov/Documents/IT/DZ/C#/1/num1,2,3/obj/Debug/net6.0/ref/num1,2,3.dll
